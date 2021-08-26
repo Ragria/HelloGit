@@ -14,6 +14,8 @@ public class HelloWorld {
 		
 		System.out.println("github 연동 시작");
 		System.out.println("로컬에서 추가");
+		System.out.println("집에서 보냄");
+		
 	}
 
 	private static void test() {
