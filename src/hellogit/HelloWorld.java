@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("집중 하세요~~~ 단 한번만 수업합니다.");
 		test();
 		System.out.println("master 작업 중");
+		System.out.println("module_B start");
 	}
 
 	private static void test() {
